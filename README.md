@@ -8,3 +8,5 @@ Which I will do and post my progress in this repo.
 Thanks for reading,
 Cheers,
 Ira
+
+NB: I'm re-writing everything for Python3
